@@ -55,7 +55,7 @@ Hello! I’m Baryalai Ahmadi, a dedicated software engineer with expertise in da
 ## 📬 Contact
 
 - **Email**: [baryalaiahmadi66@gmail.com](mailto:baryalaiahmadi66@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/baryalai-ahmadi)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/baryalaiahmadi)
 
 ---
 
